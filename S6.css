@@ -99,7 +99,7 @@ body {
   overflow: hidden;
   display: grid;
   place-content: center;
-  background: url(img/pic15.jpg) center center / cover;
+  background: url(img/pic15.png) center center / cover;
 }
 svg {
   position: absolute;
